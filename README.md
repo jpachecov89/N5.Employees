@@ -162,7 +162,7 @@ N5.Employees.IntegrationTests/ → HTTP-level tests, test doubles
 ## Author
 
 **Joel Pacheco Vilcapoma**  \
-Senior .NET Developer | Software Architect (in progress)
+Senior .NET Developer | Technical Lead
 
 - GitHub: [joelpacheco](https://github.com/joelpachecov89)
 - LinkedIn: [linkedin.com/in/jpachecov89](https://linkedin.com/in/jpachecov89)
